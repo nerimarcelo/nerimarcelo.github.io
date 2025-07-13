@@ -1,0 +1,12 @@
+title: A Caverda no Imortal
+theme: minima
+plugins:
+  - jekyll-feed
+include:
+  - _posts
+  - notas
+
+collections:
+  notas:
+    output: true
+    permalink: /notas/:path/

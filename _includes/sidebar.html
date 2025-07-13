@@ -1,0 +1,23 @@
+<aside class="sidebar">
+  <div class="profile">
+    <img src="/assets/img/foto-perfil.jpg" alt="Sua Foto">
+    <h1>Seu Nome</h1>
+  </div>
+  
+  <nav>
+    <ul>
+      <li><a href="/">Home</a></li>
+      <li><a href="/blog">Blog</a></li>
+      <li class="dropdown">
+        <span>Notas Especiais ▾</span>
+        <ul>
+          {% for nota in site.notas %}
+            <li>
+              <a href="{{ nota.url }}">{{ nota.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </li>
+    </ul>
+  </nav>
+</aside>
