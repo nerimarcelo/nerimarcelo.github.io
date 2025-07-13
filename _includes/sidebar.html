@@ -1,23 +1,29 @@
 <aside class="sidebar">
   <div class="profile">
-    <img src="/assets/img/foto-perfil.jpg" alt="Sua Foto">
-    <h1>Marcelo, O Imortal</h1>
+    <img src="/assets/img/profile.jpg" alt="Marcelo Neri">
+    <h1>Marcelo Neri</h1>
   </div>
   
   <nav>
     <ul>
-      <li><a href="/">Home</a></li>
-      <li><a href="/blog">Blog</a></li>
+      <li><a href="{{ '/' | relative_url }}">🏠 Home</a></li>
+      <li><a href="{{ '/blog' | relative_url }}">✏️ Blog</a></li>
       <li class="dropdown">
-        <span>Notas Especiais ▾</span>
+        <a href="#notas">📚 Notas Especiais ▾</a>
         <ul>
           {% for nota in site.notas %}
             <li>
-              <a href="{{ nota.url }}">{{ nota.title }}</a>
+              <a href="{{ nota.url | relative_url }}">
+                {{ nota.title }}
+              </a>
             </li>
           {% endfor %}
         </ul>
       </li>
     </ul>
   </nav>
+  
+  <div class="social-links" style="margin-top: 30px;">
+    <!-- Adicione seus links sociais aqui -->
+  </div>
 </aside>
