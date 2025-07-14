@@ -1,4 +1,4 @@
-🏃Capitulo 11 — The Whisper of the Secret Flame  
+🏃Capitulo 11 - The Whisper of the Secret Flame  
 Parte da saga: Floripa, Arise!
 
 Às 12h de uma segunda-feira, ele fez de novo.  
@@ -15,7 +15,7 @@ E ele, ostentando **sua nova armadura**, saiu para o campo.
 Optou por um trecho novo, sem paradas, sem distrações.  
 A missão era clara: **movimentar-se com leveza e intenção**.
 
-No início, o ritmo foi um pouco mais rápido do que o ideal.  
+No inicio, o ritmo foi um pouco mais rápido do que o ideal.  
 Mas logo, como um verdadeiro mestre do passo, **cadenciou os tempos**  
 e entrou na zona da tranquilidade absoluta.  
 Nem sombra de pressa. Nenhuma disputa.  
@@ -62,7 +62,7 @@ Sharpen the Blade
 | Divisões           | 40 minutos trote                                                                      |
 | Pace médio geral   | 6:04/km                                                                               |
 | Pace alvo por tiro | 6/km                                                                                  |
-| Sensação física    | Leve e devagar                                                                        |
+| Sensação fisica    | Leve e devagar                                                                        |
 | Sensação mental    | Criando histórias                                                                     |
 | Clima              | Limpo, 19ºC                                                                           |
 | Strava             | [403A - Floripa, Arise! - Capitulo 11](https://www.strava.com/activities/15112071420) |

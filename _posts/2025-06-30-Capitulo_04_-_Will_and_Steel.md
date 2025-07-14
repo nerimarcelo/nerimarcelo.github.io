@@ -2,8 +2,8 @@
 
 > Parte da saga: **Floripa, Arise!**
 
-Mais um dia de treino, mais uma parte da jornada concluída.  
-Hoje foi um dia tranquilo: um trotinho de 40 minutos para recuperação ativa. Nada heroico — apenas necessário.
+Mais um dia de treino, mais uma parte da jornada concluida.  
+Hoje foi um dia tranquilo: um trotinho de 40 minutos para recuperação ativa. Nada heroico - apenas necessário.
 
 O que poderia dar errado?  
 Talvez o clima maldito da cidade de **Cuwitaiba**, com sua garoa fina e frio constante?  
@@ -22,7 +22,7 @@ Mas o pequeno gafanhoto não fez porque precisava.
 **Fez porque quis.**
 
 E no fim, não sentiu culpa.  
-E isso — isso é o que manteve a mente tranquila.  
+E isso - isso é o que manteve a mente tranquila.  
 **Missão cumprida. Corpo em paz. Vontade intacta.**
 
 ---
@@ -50,7 +50,7 @@ E isso — isso é o que manteve a mente tranquila.
 | Divisões           | 40 minutos                                                                            |
 | Pace médio geral   | 6/km                                                                                  |
 | Pace alvo por tiro | 6/km                                                                                  |
-| Sensação física    | Respiração meio pesada                                                                |
+| Sensação fisica    | Respiração meio pesada                                                                |
 | Sensação mental    | Pensativo                                                                             |
 | Clima              | Chuva, 12ºC                                                                           |
 | Strava             | [396A - Floripa, Arise! - Capitulo 04](https://www.strava.com/activities/14966680510) |

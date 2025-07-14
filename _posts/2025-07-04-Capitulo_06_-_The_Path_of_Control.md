@@ -1,4 +1,4 @@
-# 🏃‍♂️ Capítulo 06  -  The Path of Control
+# 🏃‍♂️ Capitulo 06  -  The Path of Control
 
 > Parte da saga: **Floripa, Arise!**
 
@@ -6,8 +6,8 @@ Neste dia, a causa parecia quase perdida. Muitas dúvidas pairavam sobre a mente
 
 Mas os resultados chegaram.  
 **Todos os exames confirmaram que estava tudo em ordem**  
-E a ansiedade que sufocava o peito foi substituída por uma alegria tranquila.  
-A corrida poderia continuar — **loucamente.**
+E a ansiedade que sufocava o peito foi substituida por uma alegria tranquila.  
+A corrida poderia continuar - **loucamente.**
 
 Chegando em casa, o guerreiro se prepara. Pela manhã.  
 **Sim, pela manhã. Inusitado, não?**
@@ -28,7 +28,7 @@ Então começam os trabalhos forçados:
 intervalos fortes de 1km. Sem tênis de placa. Só ele e a força bruta da passada.
 
 E foi nesse treino que algo ficou claro:  
-**a percepção de esforço deixou de ser técnica — virou filosofia.**  
+**a percepção de esforço deixou de ser técnica - virou filosofia.**  
 Ele conhece seu corpo. Sabe o que precisa entregar.  
 Não corre mais só pra forçar.  
 Corre **pra sustentar a velocidade certa.** Corre **pra vencer com estratégia.**
@@ -40,7 +40,7 @@ e **executou com precisão.**
 > O objetivo não é correr o máximo.  
 > O objetivo é correr o necessário.
 
-As preparações para o próximo desafio — **o longão de 18km** — estão quase completas.  
+As preparações para o próximo desafio - **o longão de 18km** - estão quase completas.  
 **O guerreiro está pronto.**
 
 ---
@@ -68,7 +68,7 @@ As preparações para o próximo desafio — **o longão de 18km** — estão qu
 | Divisões           | 4km TR + 5x1km CF + 2' parado + 1km TR                                                |
 | Pace médio geral   | 5:52/km                                                                               |
 | Pace alvo por tiro | 3:55/km ~4:10/km                                                                      |
-| Sensação física    | Destruido                                                                             |
+| Sensação fisica    | Destruido                                                                             |
 | Sensação mental    | Filosofico                                                                            |
 | Clima              | Nublado, 12ºC                                                                         |
 | Strava             | [398A - Floripa, Arise! - Capitulo 06](https://www.strava.com/activities/15005072313) |

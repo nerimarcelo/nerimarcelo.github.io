@@ -1,4 +1,4 @@
-# 🏃‍♂️ Capítulo 05 - The Frozen Will
+# 🏃‍♂️ Capitulo 05 - The Frozen Will
 
 > Parte da saga: **Floripa, Arise!**
 
@@ -17,7 +17,7 @@ Durante aquela hora em movimento, passando pelas subidas e descidas dos **Campos
 - e para o grande desafio do próximo longão.
 
 **O plano era rodar 10km.**  
-Mas a vontade falou mais alto, e **ele entregou 12km — soltos, firmes e pensados.**
+Mas a vontade falou mais alto, e **ele entregou 12km - soltos, firmes e pensados.**
 
 Agora, de volta ao abrigo, o jovem guerreiro busca descanso.  
 No dia seguinte, viriam os resultados dos exames que analisariam seu coração de atleta.
@@ -53,7 +53,7 @@ E ele **odeia o frio.**
 | Divisões           | 1h leve                                                                               |
 | Pace médio geral   | 5:07/km                                                                               |
 | Pace alvo por tiro | 5:30/km                                                                               |
-| Sensação física    | Leve                                                                                  |
+| Sensação fisica    | Leve                                                                                  |
 | Sensação mental    | Filosófica                                                                            |
 | Clima              | Nublado, 10ºC                                                                         |
 | Strava             | [397A - Floripa, Arise! - Capitulo 05](https://www.strava.com/activities/14999695472) |
@@ -77,7 +77,7 @@ E ele **odeia o frio.**
 ---
 
 ## 🧪 Observações fisiológicas
-- Frequência cardíaca média: `{{ex: 164 bpm}}`
+- Frequência cardiaca média: `{{ex: 164 bpm}}`
 - VO2 estimado: `{{opcional}}`
 - Exame/monitoramento recente: `{{ex: esperando laudo da esteira}}`
 

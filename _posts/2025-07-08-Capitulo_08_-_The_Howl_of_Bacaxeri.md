@@ -1,17 +1,17 @@
-# 🏃‍♂️ Capítulo 08 — The Howl of Bacaxeri
+# 🏃‍♂️ Capitulo 08 - The Howl of Bacaxeri
 
 > Parte da saga: **Floripa, Arise!**  
 
 Numa noite gélida de domingo, vieram as datas dos próximos treinos.  
 Cada linha da planilha era um novo destino, um novo chamado.
 
-E em outra noite — menos gélida, mas ainda envolta por ventos cortantes — o Lendário Corredor atendeu ao chamado.  
+E em outra noite - menos gélida, mas ainda envolta por ventos cortantes - o Lendário Corredor atendeu ao chamado.  
 Iniciava-se ali uma nova jornada: **tiros longos, com mais intensidade e precisão.**
 
 O local escolhido era o Pequeno Parque **Bacaxeri**.  
 Desta vez, diferente das semanas anteriores, o campo de batalha estava povoado.  
 Mais corredores dividiam as trilhas.  
-Mas isso não era obstáculo — era oportunidade.  
+Mas isso não era obstáculo - era oportunidade.  
 **Mais alvos, mais espelhos, mais ritmo.**
 
 A missão era clara: **quatro intervalos de 1,5km em zona moderada.**  
@@ -21,16 +21,16 @@ Nos treinos que esculpiram sua resistência.
 Nas dores que o moldaram.  
 E partiu.
 
-Três dos intervalos saíram acima do desejado.  
-Mas não foram desperdício — foram esforço aplicado com consciência.  
+Três dos intervalos sairam acima do desejado.  
+Mas não foram desperdicio - foram esforço aplicado com consciência.  
 E então, **no quarto tiro**, tudo se encaixou.  
 A cadência.  
 A respiração.  
 A intensidade ideal.  
 **A precisão do guerreiro em sua forma plena.**
 
-Entre os tiros, os trotes de recuperação foram suaves, sem queixa do corpo — e, mais importante, sem queixa da mente.  
-A música — um rugido contínuo vindo dos fones — empurrava o guerreiro adiante.
+Entre os tiros, os trotes de recuperação foram suaves, sem queixa do corpo - e, mais importante, sem queixa da mente.  
+A música - um rugido continuo vindo dos fones - empurrava o guerreiro adiante.
 
 E então, no trote final, ele a viu.  
 **A lua.**  
@@ -68,7 +68,7 @@ Mais uma história escrita.
 | Divisões           | 2km TR + 200m CA + 4x1.5km / 2' + 2km TR                                              |
 | Pace médio geral   | 5:41/km                                                                               |
 | Pace alvo por tiro | 4:20/km                                                                               |
-| Sensação física    | Confortavel                                                                           |
+| Sensação fisica    | Confortavel                                                                           |
 | Sensação mental    | Tentando ajustar o pace                                                               |
 | Clima              | Limpo, 13ºC                                                                           |
 | Strava             | [400A - Floripa, Arise! - Capitulo 08](https://www.strava.com/activities/15051758211) |
