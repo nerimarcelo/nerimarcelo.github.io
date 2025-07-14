@@ -1,4 +1,9 @@
+---
+tittle: Capitulo 01 - Floripa, Arise!
+date: 2025-06-24
+---
 # 🏃‍♂️ Capitulo 01 - Floripa, Arise!
+
 > Parte da saga: **Floripa, Arise!**
 
 ## 🛡️ Prólogo - No Gelo de Cuwitaiba
