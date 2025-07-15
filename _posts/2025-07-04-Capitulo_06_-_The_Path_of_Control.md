@@ -45,21 +45,6 @@ As preparações para o próximo desafio - **o longão de 18km** - estão quase 
 
 ---
 
-## 📅 Data
-2025-07-04
-
-## ⚔️ Tipo de treino
-- [x] Tiros
-- [ ] Recuperação
-- [ ] Resistência
-- [ ] Qualidade
-- [ ] Prova-teste
-
-## 🧠 Fase da Jornada
-`Sharpen the Blade`
-
----
-
 ## 📈 Detalhes do Treino
 
 | Métrica            | Valor                                                                                 |
@@ -73,26 +58,3 @@ As preparações para o próximo desafio - **o longão de 18km** - estão quase 
 | Clima              | Nublado, 12ºC                                                                         |
 | Strava             | [398A - Floripa, Arise! - Capitulo 06](https://www.strava.com/activities/15005072313) |
 | Tenis              | Nike Pegasus 39                                                                       |
-
----
-
-## 🎶 Trilha Sonora
-- `Powerwolf – Wake up the Wiked`
-- `Powerwolf – Thunderpriest`
-
-> _“Armies of the wild arise, break your chains and raise your banners”_
-
----
-
-## 🧘 Reflexão do Guerreiro
-
-> _“Correr forte não é sair que nem louco, é saber onde você quer chegar, modulando a força. A corrida de 5km é diferente de 21km. O alvo tem que ser o que você almeja e não o que consegue.”_
-
----
-
-## 🏁 Resultado final
-Sucesso na jornada.
-
----
-
-[[Treinos Arise]]

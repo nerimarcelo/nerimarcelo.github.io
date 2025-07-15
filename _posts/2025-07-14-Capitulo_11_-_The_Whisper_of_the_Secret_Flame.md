@@ -39,21 +39,6 @@ Missão cumprida.
 
 ---
 
-## 📅 Data
-2025-07-14
-
-## ⚔️ Tipo de treino
-- [ ] Tiros
-- [x] Recuperação
-- [ ] Resistência
-- [ ] Qualidade
-- [ ] Prova-teste
-
-## 🧠 Fase da Jornada
-Sharpen the Blade
-
----
-
 ## 📈 Detalhes do Treino
 
 | Métrica            | Valor                                                                                 |
@@ -67,13 +52,3 @@ Sharpen the Blade
 | Clima              | Limpo, 19ºC                                                                           |
 | Strava             | [403A - Floripa, Arise! - Capitulo 11](https://www.strava.com/activities/15112071420) |
 | Tenis              | Asiscs Nimbus 25                                                                      |
-
----
-
-## 🏁 Resultado final
-`Freedom for us all`
-
----
-
-[[Treinos Arise]]
-

@@ -41,21 +41,6 @@ Com ânimo renovado, O Imortal repousa, firme em sua meta final:
 
 ---
 
-## 📅 Data
-2025-07-12
-
-## ⚔️ Tipo de treino
-- [ ] Tiros
-- [ ] Recuperação
-- [x] Resistência
-- [x] Qualidade
-- [ ] Prova-teste
-
-## 🧠 Fase da Jornada
-`Sharpen the Blade`
-
----
-
 ## 📈 Detalhes do Treino
 
 | Métrica            | Valor                                                                                 |
@@ -69,26 +54,3 @@ Com ânimo renovado, O Imortal repousa, firme em sua meta final:
 | Clima              | `Nublado, 10ºC`                                                                       |
 | Strava             | [402A - Floripa, Arise! - Capitulo 10](https://www.strava.com/activities/15088274615) |
 | Tenis              | `Puma Deviate Nitro 2`                                                                |
-
----
-
-## 🎶 Trilha Sonora
-- `Kamelot - Phantom Divine `
-- `Powerwolf - Bless 'em With the Blade`
-- `Warkings - Armageddon`
-
-> _“Crimson dawn arise”_
-
----
-
-## 🗡️ Citação do Mestre
-> _“Se você quer mudar de patamar, temos que seguir nessa linha.”_
-
----
-
-## 🏁 Resultado final
-`Sucesso e honra`
-
----
-
-[[Treinos Arise]]

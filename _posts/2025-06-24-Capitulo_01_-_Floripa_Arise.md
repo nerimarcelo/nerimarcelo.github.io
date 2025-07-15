@@ -1,5 +1,6 @@
 ---
-tittle: Capitulo 01 - Floripa, Arise!
+layout: post
+title: Capitulo 01 - Floripa, Arise!
 date: 2025-06-24
 ---
 
@@ -57,21 +58,6 @@ Mas a glória… **a glória será eterna. Imortal.**
 
 ---
 
-## 📅 Data
-`2025-06-24`
-
-## ⚔️ Tipo de treino
-- [x] Tiros
-- [ ] Recuperação
-- [ ] Resistência
-- [ ] Qualidade
-- [ ] Prova-teste
-
-## 🧠 Fase da Jornada
-`Arise from the Ashes`
-
----
-
 ## 📈 Detalhes do Treino
 
 | Métrica            | Valor                                                                                 |
@@ -85,41 +71,3 @@ Mas a glória… **a glória será eterna. Imortal.**
 | Clima              | frio e seco, 7ºC                                                                      |
 | Strava             | [393A - Floripa, Arise! - Capitulo 01](https://www.strava.com/activities/14917208780) |
 | Tenis              | Nike Pegasus 39                                                                       |
-
----
-
-## 🎶 Trilha Sonora
-- Kamelot – Forever
-- Blind Guardian – Valhalla
-
-> _“OOOO Valhalla”_
-
----
-
-## 🧘 Reflexão do Guerreiro
-Corpo ainda sem estar 100%, mas a mente estava inabalável.  
-Primeiro contato com a planilha nova foi um choque. Vai ser dificil - mas vai ser ÉPICO.
-Treino pós exame de ergoespirometria
-
-> _“A dor é passageira. A glória é eterna.”_
-
----
-
-## 🧪 Observações fisiológicas
-- Frequência cardiaca média: 166 bpm
-- Exame da esteira realizado, aguardando laudo
-
----
-
-## 🗡️ Citação do Mestre
-> _“Vamos dominar os 800m. A espada vai brilhar em breve.”_
-
----
-
-## 🏁 Resultado final
-Meta não 100% cumprida no pace final, mas execução forte e foco total.
-Mudança para pace alvo do novo RP de 10km
-
----
-
-[[Treinos Arise]]

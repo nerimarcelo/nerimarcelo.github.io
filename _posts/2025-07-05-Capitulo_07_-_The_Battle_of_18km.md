@@ -76,61 +76,16 @@ Pois sabe que hoje, novamente, **ele construiu.**
 
 ---
 
-## 📅 Data
-2025-07-05
-
-## ⚔️ Tipo de treino
-- [ ] Tiros
-- [ ] Recuperação
-- [ ] Resistência
-- [x] Qualidade
-- [ ] Prova-teste
-
-## 🧠 Fase da Jornada
- `Sharpen the Blade`
-
----
-
 ## 📈 Detalhes do Treino
 
-| Métrica            | Valor                                             |
-| ------------------ | ------------------------------------------------- |
-| Volume total       | 18km                                              |
-| Divisões           | 9km CL + 9km CM                                   |
-| Pace médio geral   | 4:40/km                                           |
-| Pace alvo por tiro | 4:20/km ~4:30/km                                  |
-| Sensação fisica    | Corpo frio                                        |
-| Sensação mental    | Batalhando pra não parar, mas empolgado           |
-| Clima              | Nublado, 9ºC                                      |
-| Strava             | [](https://www.strava.com/activities/15014362075) |
-| Tenis              | Olympikus Grafeno 2                               |
-
----
-
-## 🎶 Trilha Sonora
-- `Heilung – In Maidjan`
-- `Powerwolf – Amem & Attack`
-
-> _“Fehu Uruz Thurisaz Ansuz Raidho Kenaz  
-Gebo Wunjo Hagal Naudhiz Isa Jera  
-Eihwaz Perthro Algiz Sowelu Tiwaz Berkano  
-Ehwaz Mannaz Laguz Ingwaz Dagaz Othala”_
-
----
-
-## 🧘 Reflexão do Guerreiro
-Rodar pra 4:20 é dureza mas não é impossivel.
-> _“A dor é passageira. A glória é eterna.”_
-
----
-## 🗡️ Citação do Mestre
-> _“Pode por mais força no tiro sem problema”_
-
----
-
-## 🏁 Resultado final
-18km finalizados com sucesso e glória
-
----
-
-[[Treinos Arise]]
+| Métrica            | Valor                                                                                 |
+| ------------------ | --------------------------------------------------------------------------------------|
+| Volume total       | 18km                                                                                  |
+| Divisões           | 9km CL + 9km CM                                                                       |
+| Pace médio geral   | 4:40/km                                                                               |
+| Pace alvo por tiro | 4:20/km ~4:30/km                                                                      |
+| Sensação fisica    | Corpo frio                                                                            |
+| Sensação mental    | Batalhando pra não parar, mas empolgado                                               |
+| Clima              | Nublado, 9ºC                                                                          |
+| Strava             | [399A - Floripa, Arise! - Capitulo 07](https://www.strava.com/activities/15014362075) |
+| Tenis              | Olympikus Grafeno 2                                                                   |

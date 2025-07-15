@@ -43,21 +43,6 @@ E a sensação de vitória toma o coração do jovem guerreiro.
 
 ---
 
-## 📅 Data
-`2025-06-27`
-
-## ⚔️ Tipo de treino
-- [ ] Tiros
-- [ ] Recuperação
-- [x] Resistência
-- [ ] Qualidade
-- [ ] Prova-teste
-
-## 🧠 Fase da Jornada
-`Arise from the Ashes`
-
----
-
 ## 📈 Detalhes do Treino
 
 | Métrica            | Valor                                                                                 |
@@ -71,39 +56,3 @@ E a sensação de vitória toma o coração do jovem guerreiro.
 | Clima              | nublado, 11°C                                                                         |
 | Strava             | [394A - Floripa, Arise! - Capitulo 02](https://www.strava.com/activities/14936122017) |
 | Tenis              | Asics Nimbus 25                                                                       |
-
----
-
-## 🎶 Trilha Sonora
-- Disturbed – The Vengeful One
-- Stratovarius – My Eternal Draeam
-
-> _“I'll go on, I'll be strong, all I need is my eternal dream”_
-
----
-
-## 🧘 Reflexão do Guerreiro
-Pernas pesadas do treino de tiro e do teste de esforço, foi um começo desafiador, mas os 3 primeiros km definem o trecho, e depois deles é velocidade de cruzeiro.
-
-> _“A dor é passageira. A glória é eterna.”_
-
----
-
-## 🧪 Observações fisiológicas
- - Pernas pesadas
- - Pouca sede
- - Miopia comeu solta
-
----
-
-## 🗡️ Citação do Mestre
-> _“A corrida de 10km tem 10km”_
-
----
-
-## 🏁 Resultado final
-Mesmo com mudança de trajeto e várias paradas por conta do movimento das ruas, foi um bom treino. Dentro da faixa leve e sem dores posteriores
-
----
-
-[[Treinos Arise]]

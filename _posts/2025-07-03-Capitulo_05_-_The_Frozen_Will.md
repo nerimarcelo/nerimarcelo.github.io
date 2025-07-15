@@ -27,22 +27,6 @@ Mas no fundo, naquele exato momento, só uma coisa realmente importava:
 **Tá frio pra cacete.**  
 E ele **odeia o frio.**
 
-
----
-
-## 📅 Data
-2025-07-03
-
-## ⚔️ Tipo de treino
-- [ ] Tiros
-- [x] Recuperação
-- [ ] Resistência
-- [ ] Qualidade
-- [ ] Prova-teste
-
-## 🧠 Fase da Jornada
-`Arise from the Ashes`
-
 ---
 
 ## 📈 Detalhes do Treino
@@ -58,39 +42,3 @@ E ele **odeia o frio.**
 | Clima              | Nublado, 10ºC                                                                         |
 | Strava             | [397A - Floripa, Arise! - Capitulo 05](https://www.strava.com/activities/14999695472) |
 | Tenis              | Asics Nimbus 25                                                                       |
-
----
-
-## 🎶 Trilha Sonora
-- `{{banda}} – {{faixa}}`
-- `{{banda}} – {{faixa}}`
-
-> _“{{frase épica da música que definiu o treino}}”_
-
----
-
-## 🧘 Reflexão do Guerreiro
-`{{descreva o que sentiu, aprendeu ou percebeu no treino}}`
-
-> _“A dor é passageira. A glória é eterna.”_
-
----
-
-## 🧪 Observações fisiológicas
-- Frequência cardiaca média: `{{ex: 164 bpm}}`
-- VO2 estimado: `{{opcional}}`
-- Exame/monitoramento recente: `{{ex: esperando laudo da esteira}}`
-
----
-
-## 🗡️ Citação do Mestre
-> _“{{frase ou conselho do treinador real ou imaginário}}”_
-
----
-
-## 🏁 Resultado final
-`{{conseguiu cumprir o objetivo? Deixou algo pra ajustar?}}`
-
----
-
-[[Treinos Arise]]

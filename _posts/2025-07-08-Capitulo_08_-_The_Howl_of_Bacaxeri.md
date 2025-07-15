@@ -45,19 +45,6 @@ Mais um passo dado.
 Mais uma noite vencida.  
 Mais uma história escrita.
 
-## 📅 Data
-2025-07-08
-
-## ⚔️ Tipo de treino
-- [ ] Tiros
-- [ ] Recuperação
-- [ ] Resistência
-- [ ] Qualidade
-- [ ] Prova-teste
-
-## 🧠 Fase da Jornada
- Sharpen the Blade
-
 ---
 
 ## 📈 Detalhes do Treino
@@ -73,16 +60,3 @@ Mais uma história escrita.
 | Clima              | Limpo, 13ºC                                                                           |
 | Strava             | [400A - Floripa, Arise! - Capitulo 08](https://www.strava.com/activities/15051758211) |
 | Tenis              | Nike Pegasus 39                                                                       |
-
----
-
-## 🎶 Trilha Sonora
-- `Lamb of God – Memento Mori`
-- `Ozzy – Children of the Grave`
-
-## 🏁 Resultado final
-`AHHHHHHHHHH`
-
----
-
-[[Treinos Arise]]

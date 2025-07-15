@@ -42,21 +42,6 @@ A marcha do próximo dia será feita.
 Não importa como.  
 **Mas será.**
 
-## 📅 Data
-2025-07-11
-
-## ⚔️ Tipo de treino
-- [ ] Tiros
-- [ ] Recuperação
-- [x] Resistência
-- [ ] Qualidade
-- [ ] Prova-teste
-
-## 🧠 Fase da Jornada
-Sharpen the Blade
-
----
-
 ## 📈 Detalhes do Treino
 
 | Métrica            | Valor                                                                                   |
@@ -68,18 +53,6 @@ Sharpen the Blade
 | Sensação fisica    | Destruido, pernas cansadas                                                              |
 | Sensação mental    | Com dúvidas                                                                             |
 | Clima              | Nublado, 16ºC                                                                           |
-| Strava             | [# 401A - Floripa, Arise! - Capitulo 09](https://www.strava.com/activities/15080189001) |
+| Strava             | [401A - Floripa, Arise! - Capitulo 09](https://www.strava.com/activities/15080189001)   |
 | Tenis              | Asics Nimbus 25                                                                         |
-
----
-
-## 🎶 Trilha Sonora
-- `Warkings – Armageddon`
-
-## 🏁 Resultado final
-`Finalizado com dor`
-
----
-
-[[Treinos Arise]]
 

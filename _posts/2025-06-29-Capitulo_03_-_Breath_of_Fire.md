@@ -28,21 +28,6 @@ O guerreiro sorri. Pois sabe que hoje não apenas correu - **hoje, ele venceu.**
 
 ---
 
-## 📅 Data
-2025-06-29
-
-## ⚔️ Tipo de treino
-- [ ] Tiros
-- [ ] Recuperação
-- [x] Resistência
-- [ ] Qualidade
-- [ ] Prova-teste
-
-## 🧠 Fase da Jornada
-`Arise from the Ashes`
-
----
-
 ## 📈 Detalhes do Treino
 
 | Métrica            | Valor                                                                                 |
@@ -56,35 +41,3 @@ O guerreiro sorri. Pois sabe que hoje não apenas correu - **hoje, ele venceu.**
 | Clima              | nublado, 17ºC                                                                         |
 | Strava             | [395A - Floripa, Arise! - Capitulo 03](https://www.strava.com/activities/14952482110) |
 | Tenis              | Puma Deviante Nitro 2                                                                 |
-
----
-
-## 🎶 Trilha Sonora
-- The Keepers Trilogy – Helloween
-
-> _“AHHHH It's Helloween”_
-
----
-
-## 🧘 Reflexão do Guerreiro
-Foi um treino leve, com bastante subida. Mas o trecho foi sem paradas, que ajudou em muito.
-
-> _“A dor é passageira. A glória é eterna.”_
-
----
-
-## 🧪 Observações fisiológicas
- - Corpo leve
- - Respiração continua
----
-
-## 🗡️ Citação do Mestre
-
----
-
-## 🏁 Resultado final
-Cumprido e finalizado com sucesso
-
----
-
-[[Treinos Arise]]

@@ -27,21 +27,6 @@ E isso - isso é o que manteve a mente tranquila.
 
 ---
 
-## 📅 Data
-2025-06-30
-
-## ⚔️ Tipo de treino
-- [ ] Tiros
-- [x] Recuperação
-- [ ] Resistência
-- [ ] Qualidade
-- [ ] Prova-teste
-
-## 🧠 Fase da Jornada
-`Arise from the Ashes`
-
----
-
 ## 📈 Detalhes do Treino
 
 | Métrica            | Valor                                                                                 |
@@ -55,34 +40,3 @@ E isso - isso é o que manteve a mente tranquila.
 | Clima              | Chuva, 12ºC                                                                           |
 | Strava             | [396A - Floripa, Arise! - Capitulo 04](https://www.strava.com/activities/14966680510) |
 | Tenis              | Asics Nimbus 25                                                                       |
-
----
-
-## 🎶 Trilha Sonora
-- Powerwolf – Christ & Combat`
-
-> _“Ride, Defend, the kingdom of God”_
-
----
-
-## 🧘 Reflexão do Guerreiro
-O treino todo pensando: eu realmente preciso fazer isso desse jeito?
-
-> _“A dor é passageira. A glória é eterna.”_
-
----
-
-## 🧪 Observações fisiológicas
-
----
-
-## 🗡️ Citação do Mestre
-
----
-
-## 🏁 Resultado final
-Finalizado sem culpas
-
----
-
-[[Treinos Arise]]
