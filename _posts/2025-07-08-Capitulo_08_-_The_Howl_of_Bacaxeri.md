@@ -1,3 +1,8 @@
+---
+title: Capitulo 08 - The Howl of Bacaxeri
+date: 2025-07-08
+---
+
 # 🏃‍♂️ Capitulo 08 - The Howl of Bacaxeri
 
 > Parte da saga: **Floripa, Arise!**  

@@ -1,3 +1,8 @@
+---
+title: Capitulo 02 - Os 12km de Cuwitaiba
+date: 2025-06-27
+---
+
 # 🏃‍♂️ Capitulo 02 - Os 12km de Cuwitaiba
 
 > Parte da saga: **Floripa, Arise!**

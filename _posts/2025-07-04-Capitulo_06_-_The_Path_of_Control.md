@@ -1,3 +1,8 @@
+---
+title: Capitulo 06  -  The Path of Control
+date: 2025-07-04
+---
+
 # 🏃‍♂️ Capitulo 06  -  The Path of Control
 
 > Parte da saga: **Floripa, Arise!**

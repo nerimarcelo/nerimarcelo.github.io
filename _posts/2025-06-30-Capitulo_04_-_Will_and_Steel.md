@@ -1,3 +1,8 @@
+---
+title: Capitulo 04 - Will and Steel
+date: 2025-06-30
+---
+
 # 🏃‍♂️Capitulo 04 - Will and Steel
 
 > Parte da saga: **Floripa, Arise!**

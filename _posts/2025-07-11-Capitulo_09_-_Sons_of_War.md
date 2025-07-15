@@ -1,3 +1,8 @@
+---
+title: Capitulo 09 - Sons of War
+date: 2025-07-11
+---
+
 # 🏃‍♂️ Capitulo 09 - Sons of War
 
 > Parte da saga: **Floripa, Arise!**  

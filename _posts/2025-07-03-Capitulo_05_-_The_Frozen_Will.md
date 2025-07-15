@@ -1,3 +1,8 @@
+---
+title: Capitulo 05 - The Frozen Will
+date: 2025-07-03
+---
+
 # 🏃‍♂️ Capitulo 05 - The Frozen Will
 
 > Parte da saga: **Floripa, Arise!**

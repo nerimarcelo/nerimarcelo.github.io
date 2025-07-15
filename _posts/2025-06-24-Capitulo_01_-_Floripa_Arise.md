@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Capitulo 01 - Floripa, Arise!
 date: 2025-06-24
 ---

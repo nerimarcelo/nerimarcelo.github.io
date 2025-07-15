@@ -1,5 +1,11 @@
-🏃Capitulo 11 - The Whisper of the Secret Flame  
-Parte da saga: Floripa, Arise!
+---
+title: Capitulo 11 - The Whisper of the Secret Flame
+date: 2025-07-14
+---
+
+# 🏃 Capitulo 11 - The Whisper of the Secret Flame  
+
+> **Parte da saga:** *Floripa, Arise!*
 
 Às 12h de uma segunda-feira, ele fez de novo.  
 Mais um dia.  

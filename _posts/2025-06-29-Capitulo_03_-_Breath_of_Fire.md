@@ -1,3 +1,8 @@
+---
+title: Capitulo 03 - Breath of Fire
+date: 2025-06-29
+---
+
 # 🏃‍♂️ Capitulo 03 - Breath of Fire
 
 > Parte da saga: **Floripa, Arise!**

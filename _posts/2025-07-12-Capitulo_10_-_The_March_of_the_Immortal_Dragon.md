@@ -1,3 +1,8 @@
+---
+title: Capitulo 10 - The March of the Immortal Dragon
+date: 2025-07-12
+---
+
 # 🏃‍♂️ Capitulo 10 - The March of the Immortal Dragon
 
 > **Parte da saga:** *Floripa, Arise!* 

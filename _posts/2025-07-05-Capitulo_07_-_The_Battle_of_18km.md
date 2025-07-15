@@ -1,3 +1,8 @@
+---
+title: Capitulo 07 - The Battle of 18km
+date: 2025-07-05
+---
+
 # 🏃‍♂️Capitulo 07 - The Battle of 18km
 
 > Parte da saga: **Floripa, Arise!**  
