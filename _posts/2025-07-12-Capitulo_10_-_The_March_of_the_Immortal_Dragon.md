@@ -7,6 +7,8 @@ date: 2025-07-12
 
 > **Parte da saga:** *Floripa, Arise!* 
 
+---
+
 Logo pela manhã, num clima ameno perfeito para a batalha, **Marcelo, O Imortal** - também chamado de **O Dragão** - chega ao campo de guerra para encarar o primeiro grande desafio da semana:  
 **O Longo de 16km.**
 

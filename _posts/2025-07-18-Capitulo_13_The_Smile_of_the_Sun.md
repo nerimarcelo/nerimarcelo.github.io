@@ -4,6 +4,7 @@ date: 2025-07-18
 ---
 
 # ☀️ Capitulo 13 - The Smile of the Sun
+
 > Parte da saga: **Floripa, Arise!**
 
 ---

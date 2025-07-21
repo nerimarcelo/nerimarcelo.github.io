@@ -7,6 +7,8 @@ date: 2025-06-30
 
 > Parte da saga: **Floripa, Arise!**
 
+---
+
 Mais um dia de treino, mais uma parte da jornada concluida.  
 Hoje foi um dia tranquilo: um trotinho de 40 minutos para recuperação ativa. Nada heroico - apenas necessário.
 

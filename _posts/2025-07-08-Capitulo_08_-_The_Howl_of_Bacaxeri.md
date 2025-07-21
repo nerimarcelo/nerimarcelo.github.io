@@ -7,6 +7,8 @@ date: 2025-07-08
 
 > Parte da saga: **Floripa, Arise!**  
 
+---
+
 Numa noite gélida de domingo, vieram as datas dos próximos treinos.  
 Cada linha da planilha era um novo destino, um novo chamado.
 

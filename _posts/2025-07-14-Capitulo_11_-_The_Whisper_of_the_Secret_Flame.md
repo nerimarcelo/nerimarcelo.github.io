@@ -7,6 +7,8 @@ date: 2025-07-14
 
 > **Parte da saga:** *Floripa, Arise!*
 
+---
+
 Às 12h de uma segunda-feira, ele fez de novo.  
 Mais um dia.  
 Mais um treino Imortal para O Dragão.

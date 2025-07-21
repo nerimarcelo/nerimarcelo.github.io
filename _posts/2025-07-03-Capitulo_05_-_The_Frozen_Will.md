@@ -7,6 +7,8 @@ date: 2025-07-03
 
 > Parte da saga: **Floripa, Arise!**
 
+---
+
 Num dia de semana absurdamente frio, apenas a vontade de ferro era capaz de sobrepor o desconforto glacial de **Cuwitaiba**.
 
 O treino do dia não foi de tiros.  

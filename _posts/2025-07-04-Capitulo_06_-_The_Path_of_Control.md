@@ -7,6 +7,8 @@ date: 2025-07-04
 
 > Parte da saga: **Floripa, Arise!**
 
+---
+
 Neste dia, a causa parecia quase perdida. Muitas dúvidas pairavam sobre a mente do guerreiro.
 
 Mas os resultados chegaram.  

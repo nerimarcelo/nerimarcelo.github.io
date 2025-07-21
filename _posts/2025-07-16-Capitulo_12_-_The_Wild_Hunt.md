@@ -3,10 +3,9 @@ title: Capitulo 12 - The Wild Hunt
 date: 2025-07-16
 ---
 
-
-
 # 🏃‍♂️ Capítulo 12 — The Wild Hunt  
-Parte da saga: **Floripa, Arise!**
+
+>Parte da saga: **Floripa, Arise!**
 
 ---
 

@@ -7,6 +7,8 @@ date: 2025-06-29
 
 > Parte da saga: **Floripa, Arise!**
 
+---
+
 Chegado o fim de semana, era hora de encarar o maior dos treinos: o famoso longão.
 
 Na alvorada de domingo, o desafio se apresentava com **16km de estrada**. E por mais que parecesse improvável dias atrás, o guerreiro completou sem parar.

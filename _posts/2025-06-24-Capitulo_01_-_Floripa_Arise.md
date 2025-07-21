@@ -7,6 +7,8 @@ date: 2025-06-24
 
 > Parte da saga: **Floripa, Arise!**
 
+---
+
 ## 🛡️ Prólogo - No Gelo de Cuwitaiba
 
 Havia um jovem corredor que treinava com dedicação, determinado a superar seus próprios limites.  
