@@ -1,13 +1,14 @@
 ---
 title: Capitulo 18 - The Winds of Destination
-date: 2025-07-26
+date: 2025-07-28
 ---
 
-# 🐉 Capítulo 18 — The Winds of Destination
- 
+# 🐉 Capítulo 18 - The Winds of Destination
+
 > Parte da saga: **Floripa, Arise!**
 
 ---
+
 Na noite com céu aberto e um vento cortante, se iniciou uma nova corrida selvagem.
 O desafio da caçada retorna aos pilares do treinamento, e diante do Parque Bariguai, o Dragão é desafiado a voar em **2 ataques de 3km em ritmo forte**.
 
