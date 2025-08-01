@@ -5,7 +5,7 @@ date: 2025-07-14
 
 # 🏃 Capitulo 11 - The Whisper of the Secret Flame  
 
-> **Parte da saga:** *Floripa, Arise!*
+> Parte da saga: **Floripa, Arise!**
 
 ---
 
