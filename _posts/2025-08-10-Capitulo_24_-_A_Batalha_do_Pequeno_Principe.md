@@ -2,7 +2,7 @@
 title: Capitulo 24 - A Batalha do Pequeno Principe
 date: 2025-08-10
 ---
-🐉 Capitulo 24 — A Batalha do Pequeno Principe
+# ⚔️ Capitulo 24 — A Batalha do Pequeno Principe
 > Parte da saga Floripa, Arise!
 
 Ainda com a lua vigiando os céus e o frio cravando lâminas invisíveis às seis da manhã, o Dragão deixou o calor do Templo das Sombras para mais uma caçada.
