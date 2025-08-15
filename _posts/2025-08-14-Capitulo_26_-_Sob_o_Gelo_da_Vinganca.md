@@ -1,4 +1,9 @@
-❄️ Capitulo 26 - Sob o Gelo da Vingança
+---
+title: Capitulo 26 - Sob o Gelo da Vingança
+date: 2025-08-14
+---
+
+# ❄️ Capitulo 26 - Sob o Gelo da Vingança
 Parte da saga: Floripa, Arise!
 
 Ah, o inverno… aquela estação implacável que congela até os pensamentos nas terras da Província Pinhalesca.
